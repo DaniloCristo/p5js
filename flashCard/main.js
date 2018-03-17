@@ -42,7 +42,7 @@ function draw(){
 	}
 
 	//quarta pergunta
-	if(mouseIsPressed && mouseX>450 && mouseX < 750 && mouseY > 350 && mouseY < 450){
+	if(mouseIsPressed && mouseX>450 && mouseX < 750 && mouseY > 300 && mouseY < 400){
 		textSize(16);
 		text("Javascript",480,350);
 	}else{
